@@ -1,0 +1,20 @@
+{
+  "name": "sistema_inventario",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "JIELSAN",
+  "license": "ISC",
+  "description": "Correccion examen segudo parcial",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.1",
+    "morgan": "^1.10.0",
+    "mysql2": "^3.11.4",
+    "nodemon": "^3.1.7"
+  }
+}
